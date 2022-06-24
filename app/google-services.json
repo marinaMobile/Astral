@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421069595494",
+    "project_id": "astral-wolf",
+    "storage_bucket": "astral-wolf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421069595494:android:e10f779f479d1475e29ea7",
+        "android_client_info": {
+          "package_name": "com.fungames.flightpilo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421069595494-h9dqki1st8jun0srrh5n7k1ujq0r9755.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiFRE8OjHyjt0RrafcujDWW7VOeDZ8Cmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421069595494-h9dqki1st8jun0srrh5n7k1ujq0r9755.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

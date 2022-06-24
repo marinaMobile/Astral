@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Astral Wolf</string>
+    <string name="facebook_app_id">1402258343626902</string>
+    <string name="fb_login_protocol_scheme">fb1402258343626902</string>
+    <string name="image_chooser">Choose Image</string>
+</resources>
